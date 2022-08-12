@@ -1,5 +1,4 @@
 import pymatgen.io.vasp.outputs as vasp_utility
-import pymatgen.io.cube as cube_utility
 import pymatgen.core.periodic_table as ptable
 import numpy as np
 import argparse
